@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       Halal       1.00      1.00      1.00      3292
+       Haram       0.96      0.91      0.94        56
+
+    accuracy                           1.00      3348
+   macro avg       0.98      0.96      0.97      3348
+weighted avg       1.00      1.00      1.00      3348
