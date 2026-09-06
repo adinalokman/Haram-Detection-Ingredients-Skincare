@@ -1,10 +1,10 @@
-# 🐷 Haram Ingredients Detection in Skincare 
+#  Haram Ingredients Detection in Skincare 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Model-Logistic%20Regression-green)
 ![Accuracy](https://img.shields.io/badge/Accuracy-100%25-brightgreen)
 
-## 📌 Project Overview
+##  Project Overview
 As a Muslim consumer, identifying **Haram (Non-Halal)** ingredients in skincare products can be challenging, especially with complex chemical names. 
 
 This project uses **Machine Learning (NLP)** to automatically detect and classify skincare ingredients into:
@@ -16,7 +16,7 @@ The model was trained on **35,000+ ingredients** and achieved **100% accuracy** 
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 ### 1. Label Distribution
 The dataset is heavily imbalanced (mostly Halal), which reflects the real-world market. We handled this using `class_weight='balanced'` during training.
 
@@ -31,7 +31,7 @@ Common terms found in Haram ingredients vs Halal ingredients.
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+##  Tech Stack & Methodology
 1.  **Data Collection:** Merged datasets from Cosmetics.csv, Ingredients List, and manual research.
 2.  **Preprocessing:**
     - Cleaned text (removed special characters, lowercase).
@@ -44,7 +44,7 @@ Common terms found in Haram ingredients vs Halal ingredients.
 
 ---
 
-## 📈 Key Results
+##  Key Results
 - **Total Ingredients Processed:** 35,666
 - **Hidden Haram Ingredients Found by AI:** 76
 - **Total Halal Ingredients Identified:** 35,000+
