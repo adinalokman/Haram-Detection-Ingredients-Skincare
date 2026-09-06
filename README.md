@@ -51,7 +51,7 @@ Common terms found in Haram ingredients vs Halal ingredients.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone [https://github.com/adinalokman/Haram-Detection-Ingredients-Skincare.git](https://github.com/adinalokman/Haram-Detection-Ingredients-Skincare.git)
